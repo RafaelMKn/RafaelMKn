@@ -31,10 +31,11 @@ Desenvolvo arquiteturas de software e fluxos de automação com obsessão por pr
 | :--- | :--- | :--- |
 | ⚡ **[dispar-flux](https://github.com/RafaelMKn/dispar-flux)** | Plataforma web self-hosted de disparos e automações | TypeScript, Automação |
 | 🧠 **[skills-library](https://github.com/RafaelMKn/skills-library)** | Coleção mestra de skills e padrões para agentes de IA | IA, Prompt Engineering |
+| 🎬 **[sala-de-takes](https://github.com/RafaelMKn/sala-de-takes)** | Pipeline técnico de takes e mídia programática | Motion, Video Pipeline |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMKn&layout=compact&theme=radical&hide_border=true" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMKn&theme=radical&hide_border=true" width="46%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelMKn&layout=compact&theme=radical&hide_border=true" width="46%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=RafaelMKn&theme=radical&hide_border=true" width="46%" alt="GitHub Streak" />
 </div>
