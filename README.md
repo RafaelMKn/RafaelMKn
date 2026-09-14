@@ -27,3 +27,15 @@ Desenvolvo arquiteturas de software e fluxos de automação com foco em processo
 | :--- | :--- | :--- |
 | **[dispar-flux](https://github.com/RafaelMKn/dispar-flux)** | Plataforma web self-hosted de disparos e automações | TypeScript, Automação |
 | **[skills-library](https://github.com/RafaelMKn/skills-library)** | Coleção mestra de skills e padrões para agentes de IA | IA, Prompt Engineering |
+
+```text
+ ________  __                      __       __  __                  __ 
+|        \|  \                    |  \     /  \|  \                |  \
+| $$$$$$$$| $$ __    __  __    __ | $$\   /  $$ \$$ _______    ____| $$
+| $$__    | $$|  \  |  \|  \  /  \| $$$\ /  $$$|  \|       \  /      $$
+| $$  \   | $$| $$  | $$ \$$\/  $$| $$$$\  $$$$| $$| $$$$$$$\|  $$$$$$$
+| $$$$$   | $$| $$  | $$  >$$  $$ | $$\$$ $$ $$| $$| $$  | $$| $$  | $$
+| $$      | $$| $$__/ $$ /  $$$$\ | $$ \$$$| $$| $$| $$  | $$| $$__| $$
+| $$      | $$ \$$    $$|  $$ \$$\| $$  \$ | $$| $$| $$  | $$ \$$    $$
+ \$$       \$$  \$$$$$$  \$$   \$$ \$$      \$$ \$$ \$$   \$$  \$$$$$$$
+```
