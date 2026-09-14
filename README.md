@@ -31,7 +31,6 @@ Desenvolvo arquiteturas de software e fluxos de automação com obsessão por pr
 | :--- | :--- | :--- |
 | ⚡ **[dispar-flux](https://github.com/RafaelMKn/dispar-flux)** | Plataforma web self-hosted de disparos e automações | TypeScript, Automação |
 | 🧠 **[skills-library](https://github.com/RafaelMKn/skills-library)** | Coleção mestra de skills e padrões para agentes de IA | IA, Prompt Engineering |
-| 🎬 **[sala-de-takes](https://github.com/RafaelMKn/sala-de-takes)** | Pipeline técnico de takes e mídia programática | Motion, Video Pipeline |
 
 ---
 
